@@ -1,4 +1,4 @@
-![portfolio](https://user-images.githubusercontent.com/40512508/218880420-b72d5d36-b136-4586-8b33-7aed08395117.png)
+![portfolio](https://user-images.githubusercontent.com/40512508/218880770-fec903fb-7325-4602-bb92-65293327fe0e.jpg)
 
 
 >Status: Em desenvolvimento ⚠️
