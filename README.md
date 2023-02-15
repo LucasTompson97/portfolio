@@ -18,7 +18,7 @@
 + Opção de modo dark/light;
 + Opção de tradução PT/BR e EN;
 
-<h2>Tecnologias Usadas</h2>
+<h2>Tecnologias Usadas:</h2>
 
 <table>
  <tr>
